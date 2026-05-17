@@ -21,29 +21,6 @@ The primary objective is to computationally predict personalized therapeutic res
 
 🔗 **Project Website:** `PASTE_LINK_HERE`
 
----
-
-# Repository Structure
-
-```text
-├── data/
-│   ├── tcga/
-│   ├── gdsc/
-│
-├── notebooks/
-│   ├── precision-drug-response-prediction.ipynb
-│
-├── outputs/
-│   ├── visualizations/
-│   ├── model_results/
-│
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
-
 # Problem Statement
 
 Breast cancer exhibits high molecular heterogeneity, causing significant variability in treatment response across patients.
@@ -264,40 +241,6 @@ Possible future extensions include:
 - multi-omics integration
 - survival prediction modeling
 - real-time clinical deployment pipelines
-
----
-
-# How to Run the Project
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/your-username/repository-name.git
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open the notebook and execute cells sequentially.
-
----
-
-# Author
-
-**Somshirsha Bhattacharya**
-
-B.Tech CSE | AI & Data Science Enthusiast
-
----
 
 # License
 
