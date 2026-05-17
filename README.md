@@ -19,7 +19,7 @@ The primary objective is to computationally predict personalized therapeutic res
 
 > Paste your publishable GitHub Pages / HTML notebook link here:
 
-🔗 **Project Website:** `PASTE_LINK_HERE`
+🔗 **Project Website:**  https://somshirsha.github.io/brca-drug-response-ai/
 
 # Problem Statement
 
